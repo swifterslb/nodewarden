@@ -103,7 +103,7 @@ A: 不建议。本项目为单用户设计，多人使用请选择 Vaultwarden�
 
 ## 开源协议
 
-MIT License
+LGPL-3.0 License
 
 ---
 

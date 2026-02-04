@@ -97,7 +97,7 @@ A: Not recommended. This project is designed for single-user usage.
 
 ## License
 
-MIT License
+LGPL-3.0 License
 
 ---
 
